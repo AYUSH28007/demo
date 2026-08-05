@@ -1,4 +1,4 @@
 # demo
-My first reopo
+My first repo
 <br>
 Author-Ayush Thakur
